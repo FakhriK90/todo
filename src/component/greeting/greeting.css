@@ -1,0 +1,12 @@
+.greeting {
+    background-image: url("https://images.pexels.com/photos/3243/pen-calendar-to-do-checklist.jpg?cs=srgb&dl=pexels-breakingpic-3243.jpg&fm=jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+  } 
+
+.logsig{
+    padding: 129px;    
+}
